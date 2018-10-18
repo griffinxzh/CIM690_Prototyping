@@ -1,0 +1,20 @@
+/*❗️❗️do not touch css in bootstrap*/
+
+
+.pink{
+  background: pink;
+
+}
+
+.orange{
+  background: orange;
+}
+
+
+.teal{
+  background: teal;
+}
+
+.bg-light {
+    background-color: red!important;
+}
